@@ -1,0 +1,30 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [326] using StatReload
+INFO:     Started server process [328]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:43734 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:43740 - "GET /theaters HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43754 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43764 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43740 - "GET /theaters HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43776 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43764 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43776 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43764 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43776 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43764 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41496 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41520 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41506 - "GET /theaters HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41532 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41528 - "GET /theaters HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41528 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41532 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41546 - "GET /theaters HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41536 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41534 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41534 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41536 - "GET /showtimes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41536 - "GET /showtimes HTTP/1.1" 200 OK
